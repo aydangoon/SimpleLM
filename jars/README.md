@@ -1,4 +1,4 @@
-#How to Use TextureSwapper
+How to Use TextureSwapper
 
 To dump textures run the program and hit "Dump Textures" on the first prompt. <br />
 The output window will tell you all relevant information you may want to know. <br />
